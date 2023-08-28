@@ -1,6 +1,11 @@
 ### Hi there 🤘
 
 - 🖥️ coding as a part of art
-
- * Prefered systems: `Debian`, `CentOS`, `RedHat`, `Windows`
- * Some coding knowledges: `Python`, `QT5/PyQT5`, `PHP`, `Bash`
+---
+ * 🧡: `Debian`
+ * 💛: `CentOS`, `RedHat`
+ * 🤦‍♂️: `Windows`
+---
+ * 🧡: `Python`, `QT5/PyQT5`, `Flask`
+ * 🖤: `Bash`
+ * 🤦‍♂️: `PHP`
