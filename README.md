@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=intervisionlord&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-### :clipboard: Competencies:
+### :clipboard: Competencies & Preferences:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="32" height="32"/>&nbsp;
@@ -35,7 +35,6 @@
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intervisionlord&theme=transparent)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=intervisionlord&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=intervisionlord&theme=transparent&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intervisionlord&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intervisionlord&theme=transparent)
